@@ -1,0 +1,2 @@
+# hybird-app
+cordova
