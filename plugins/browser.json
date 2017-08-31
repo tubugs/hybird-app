@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.tubugs.hybird"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.tubugs.hybird"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.tubugs.hybird"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.tubugs.hybird"
+        },
+        "cordova-plugin-baidumaplocation": {
+            "ANDROID_KEY": "fkaHh9gpxadZBEqfh6VQm91GAug9g119",
+            "IOS_KEY": "null",
+            "IOS_LOCATION_DESC": "请点击'好'以允许访问。",
+            "PACKAGE_NAME": "com.tubugs.hybird"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.tubugs.hybird"
+        }
+    }
+}

@@ -1,0 +1,4 @@
+node_modules
+.idea
+/platforms/android/.gradle
+build
