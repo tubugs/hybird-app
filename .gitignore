@@ -2,3 +2,5 @@ node_modules
 .idea
 /platforms/android/.gradle
 build
+/platforms/android/CordovaLib/*.iml
+/platforms/android/*.iml
