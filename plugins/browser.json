@@ -24,6 +24,11 @@
             "IOS_KEY": "null",
             "IOS_LOCATION_DESC": "请点击'好'以允许访问。",
             "PACKAGE_NAME": "com.tubugs.hybird"
+        },
+        "cordova-plugin-aliyunpush": {
+            "APP_KEY": "24607181",
+            "APP_SECRET": "fe06edba638afffd9d01b448eb50fc37",
+            "PACKAGE_NAME": "com.tubugs.hybird"
         }
     },
     "dependent_plugins": {

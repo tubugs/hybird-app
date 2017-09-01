@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      {
+        "name": null,
+        "raw": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+        "rawSpec": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+        "scope": null,
+        "spec": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+        "type": "directory"
+      },
+      "E:\\workspace\\tubugs\\hybird-app"
+    ]
+  ],
+  "_from": "..\\cordova-plugin-aliyunpush",
+  "_id": "cordova-plugin-aliyunpush@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-aliyunpush",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+    "rawSpec": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+    "scope": null,
+    "spec": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "file:..\\cordova-plugin-aliyunpush",
+  "_shasum": "20649aa69f39dda324c857982d9e0792f7c9bb99",
+  "_shrinkwrap": null,
+  "_spec": "E:\\workspace\\tubugs\\cordova-plugin-aliyunpush",
+  "_where": "E:\\workspace\\tubugs\\hybird-app",
+  "author": {
+    "name": "tubugs"
+  },
+  "bugs": {
+    "url": "https://github.com/tubugs/cordova-plugin-aliyunpush/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-aliyunpush",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Push Plugin,use Aliyun SDK",
+  "devDependencies": {},
+  "engines": [
+    {
+      "name": "cordova-android",
+      "version": ">=5.0.0"
+    }
+  ],
+  "gitHead": "9aa131fe0ff6ce49fed35e44cc8f0fb1b5419a60",
+  "homepage": "https://github.com/tubugs/cordova-plugin-aliyunpush#readme",
+  "keywords": [
+    "cordova",
+    "aliyun",
+    "push",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-aliyunpush",
+  "optionalDependencies": {},
+  "readme": "# cordova-plugin-aliyunpush\r\ncordova plugin\r\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tubugs/cordova-plugin-aliyunpush.git"
+  },
+  "version": "1.0.0"
+}

@@ -17,6 +17,10 @@
     <feature name="BaiduMapLocation">
         <param name="android-package" value="com.aruistar.cordova.baidumap.BaiduMapLocation" />
     </feature>
+    <feature name="AliyunPushPlugin">
+        <param name="android-package" value="com.tubugs.cordova.AliyunPushPlugin" />
+        <param name="onload" value="true" />
+    </feature>
     <name>兔八哥</name>
     <description>兔八哥的混合APP框架</description>
     <author email="181502793@qq.com" href="http://blog.tubugs.cn/">兔八哥</author>

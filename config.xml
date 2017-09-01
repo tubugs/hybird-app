@@ -38,4 +38,8 @@
     <plugin name="cordova-plugin-device" spec="^1.1.6" />
     <plugin name="cordova-plugin-splashscreen" spec="^4.0.3" />
     <plugin name="cordova-plugin-whitelist" spec="^1.3.2" />
+    <plugin name="cordova-plugin-aliyunpush" spec="E:/workspace/tubugs/cordova-plugin-aliyunpush">
+        <variable name="APP_KEY" value="24607181" />
+        <variable name="APP_SECRET" value="fe06edba638afffd9d01b448eb50fc37" />
+    </plugin>
 </widget>

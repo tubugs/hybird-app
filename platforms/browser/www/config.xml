@@ -17,4 +17,7 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
+    <splash src="res/screen/splash.png" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="Orientation" value="portrait" />
 </widget>

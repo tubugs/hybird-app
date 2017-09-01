@@ -49,5 +49,16 @@
             "ANDROID_KEY": "fkaHh9gpxadZBEqfh6VQm91GAug9g119",
             "IOS_KEY": "null"
         }
+    },
+    "cordova-plugin-aliyunpush": {
+        "source": {
+            "type": "local",
+            "path": "E:\\workspace\\tubugs\\hybird-app\\node_modules\\cordova-plugin-aliyunpush"
+        },
+        "is_top_level": true,
+        "variables": {
+            "APP_KEY": "24607181",
+            "APP_SECRET": "fe06edba638afffd9d01b448eb50fc37"
+        }
     }
 }
